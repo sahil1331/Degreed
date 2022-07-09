@@ -1,0 +1,16 @@
+body{
+    background-color: #f5f5f5;
+}
+
+.question1div{
+    padding:10px;
+    background-color: #ffff00;
+}
+
+.question1div h1{
+    background-color: #ff0000;
+}
+
+.question1div p{
+    background-color: #00ff00;
+}
