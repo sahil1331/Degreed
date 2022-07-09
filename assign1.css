@@ -14,3 +14,11 @@ body{
 .question1div p{
     background-color: #00ff00;
 }
+
+img{
+    width: 10%;
+    height: 10%;
+}
+.imgborder{
+    border: 3px solid #b664e3;
+}
