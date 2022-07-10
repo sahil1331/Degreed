@@ -25,3 +25,20 @@
     border: 1px solid black;
     background-color: #b1f0e4;
 }
+
+.question3div{
+    border: 1px solid black;
+    background-color: #b1f0e4;
+}
+
+#capital{
+    text-transform: capitalize;
+}
+
+#lower{
+    text-transform: lowercase;
+}
+
+#upper{
+    text-transform: uppercase;
+}
