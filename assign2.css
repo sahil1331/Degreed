@@ -42,3 +42,15 @@
 #upper{
     text-transform: uppercase;
 }
+
+.question4div a{
+    color: #f00;
+}
+
+.question4div a:hover, a:focus  {
+    color: #00f;
+}
+
+.question4div a:visited{
+    color: #87888a;
+}
