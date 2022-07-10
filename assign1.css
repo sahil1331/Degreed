@@ -49,3 +49,20 @@ input,b{
 button{
     margin-left: 10px;
 }
+
+.table5 td,.table5 tr{
+    text-align: center;
+    border: inset 4px rgb(0, 0, 0) ;
+}
+
+.theader{
+    background-color: #42f5c8;
+}
+
+.tleft{
+    background-color:#8a9190;
+}
+
+.tright{
+    background-color: #dae3e1;
+}
