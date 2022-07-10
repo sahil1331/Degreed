@@ -22,3 +22,17 @@ img{
 .imgborder{
     border: 3px solid #b664e3;
 }
+
+.question3div{
+    border: 1px solid #f653;
+}
+
+
+table { 
+    border-collapse: collapse;
+    margin: 2px;
+}
+.table1 td, .table2 td ,.table3 td{
+    text-align: center;
+    border: inset 4px rgb(106, 19, 19) ;
+}
