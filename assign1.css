@@ -27,12 +27,16 @@ img{
     border: 1px solid #f653;
 }
 
+.question4div{
+    border: 1px solid #f653;
+}
+
 
 table { 
     border-collapse: collapse;
     margin: 2px;
 }
-.table1 td, .table2 td ,.table3 td{
+.table1 td, .table2 td ,.table3 td, .table4 td{
     text-align: center;
     border: inset 4px rgb(106, 19, 19) ;
 }
