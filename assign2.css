@@ -77,3 +77,11 @@
     color: #fff;
     background-color: #306b39
 }
+
+.question7div{
+    border:dotted 5px #0f0;
+}
+
+.question7div div{
+    border:solid 3px #f00;
+}
