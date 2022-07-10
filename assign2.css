@@ -85,3 +85,18 @@
 .question7div div{
     border:solid 3px #f00;
 }
+
+.thickbr{
+    border: thick solid black;
+    background-color: #b1f0e4;
+}
+.midbr{
+
+    border: medium solid black;
+    background-color: #b1f0e4;
+}
+.thinbr{
+
+    border: thin solid black;
+    background-color: #b1f0e4;
+}
